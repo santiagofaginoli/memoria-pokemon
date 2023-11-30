@@ -1,0 +1,21 @@
+.App {
+  max-width: 860px;
+  margin: 40px auto;
+}
+
+h5 {
+  margin-top: -10px;
+}
+
+p {
+  font-size: 20px;
+}
+
+
+
+.card-grid {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;   /* 4 different columns in grid */
+  grid-gap: 20px;
+}
