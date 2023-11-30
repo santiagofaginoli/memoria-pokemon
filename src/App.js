@@ -117,7 +117,7 @@ function App() {
 
   return (
     <div className="App">
-      <div><h1>Hecho por Luciano Vacarini y Lucio Aparicio</h1></div>
+      <div><h1>Hecho por Luciano Vaccarini y Lucio Aparicio</h1></div>
       <div style={{justifyContent:"center",display:"flex",marginTop:"10px"}}>
       </div>
       <div className="card-grid">
