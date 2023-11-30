@@ -1,8 +1,6 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 import SingleCard from "./components/SingleCard";
-import Swal from "sweetalert2";
-import StopWatch from "./components/StopWatch";
 
 // array of card images
 const cardImages = [
@@ -119,7 +117,7 @@ function App() {
 
   return (
     <div className="App">
-
+      <div><h1>Hecho por Luciano Vacarini y Lucio Aparicio</h1></div>
       <div style={{justifyContent:"center",display:"flex",marginTop:"10px"}}>
       </div>
       <div className="card-grid">
